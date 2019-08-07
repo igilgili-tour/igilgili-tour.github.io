@@ -1113,7 +1113,7 @@ h6 {
 }
 
 #contact .info i {
-  font-size: 32px;
+  font-size: 42px;/*32*/
   color: #007bff;
   float: left;
   line-height: 1;
@@ -1121,7 +1121,7 @@ h6 {
 
 #contact .info p {
   padding: 0 0 10px 36px;
-  line-height: 28px;
+  line-height: 32px;
   font-size: 14px;
 }
 
