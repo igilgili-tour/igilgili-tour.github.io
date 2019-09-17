@@ -17,7 +17,7 @@
 
 ## milleurs offres
 
-istanboul, sousse, hammamat, agadir, casablanca, marakish, cairou charmchikh, bayrout, malisie, koualampour, macca
+istanboul, sousse, hammamat, agadir, casablanca, marakish, cairou, charmchikh, bayrout, malisie, koualampour, macca
 
 ## airianes
 
